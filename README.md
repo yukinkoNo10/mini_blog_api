@@ -1,1 +1,2 @@
 # mini_blog_api
+ミニブログのCRUD処理に関するRestAPI
